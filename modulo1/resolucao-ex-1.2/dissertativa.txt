@@ -1,0 +1,9 @@
+#Entrada
+Leia do teclado e armazene o número n 
+
+#Processamento
+Aplique a seguinte operação, digito1 será igual a n-1 e o digito2 será igual a 10-n e armazene o resultado.
+Depois execute outra operação, chamada de operação2, que consiste no seguinte: 9 multiplicado por n é igual ao digito1 multiplicado por 10 mais digito2.
+
+#Saída
+Apresente na tela o resultado da operação2 e finalize o programa.
