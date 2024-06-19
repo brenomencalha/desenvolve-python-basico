@@ -1,0 +1,5 @@
+id,nome,email,senha,nivel
+0001,Breno Mencalha,breno.costa@pditabira.com,12345,administrador
+0002,João Paulo Costa,jp@pditabira.com,12345,gerente
+0003,Luciene Aparecida,lu@pditabira.com,12345,funcionario
+0004,Sara Dias,sar@pditabira.com,12345,cliente
